@@ -1,0 +1,36 @@
+div {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin: 0 auto;
+  position: aboslute;
+  color: white;
+  background: black;
+  box-shadow: 5px 5px 9px grey;
+  letter-spacing: 3px;
+}
+h1 {
+text-align: center;
+  position: relative;
+  padding-top: px;
+  margin-top: 20px;
+  margin-bottom: -98px;
+  font-family: 'Amatic SC';
+  font-size: 100px;
+}
+img {
+  width: 35%;
+ border-radius: 50%;
+  position: absolute;
+  border: 2px solid white;
+  margin-top: 80px;
+  margin-left: 120px;
+  box-shadow: 10px 3px 9px grey;
+}
+h2 {
+  text-align: center;
+  position: relative;
+  font-family: 'Amatic SC';
+  font-size: 90px;
+  margin-right: 110px;
+}
